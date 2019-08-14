@@ -1,0 +1,10 @@
+C:\Users\Luk\source\repos\ControlPointsMerger\ControlPointsMerger\bin\Debug\ControlPointsMerger.exe.config
+C:\Users\Luk\source\repos\ControlPointsMerger\ControlPointsMerger\bin\Debug\ControlPointsMerger.exe
+C:\Users\Luk\source\repos\ControlPointsMerger\ControlPointsMerger\bin\Debug\ControlPointsMerger.pdb
+C:\Users\Luk\source\repos\ControlPointsMerger\ControlPointsMerger\obj\Debug\ControlPointsMerger.csprojAssemblyReference.cache
+C:\Users\Luk\source\repos\ControlPointsMerger\ControlPointsMerger\obj\Debug\ControlPointsMerger.Form1.resources
+C:\Users\Luk\source\repos\ControlPointsMerger\ControlPointsMerger\obj\Debug\ControlPointsMerger.Properties.Resources.resources
+C:\Users\Luk\source\repos\ControlPointsMerger\ControlPointsMerger\obj\Debug\ControlPointsMerger.csproj.GenerateResource.cache
+C:\Users\Luk\source\repos\ControlPointsMerger\ControlPointsMerger\obj\Debug\ControlPointsMerger.csproj.CoreCompileInputs.cache
+C:\Users\Luk\source\repos\ControlPointsMerger\ControlPointsMerger\obj\Debug\ControlPointsMerger.exe
+C:\Users\Luk\source\repos\ControlPointsMerger\ControlPointsMerger\obj\Debug\ControlPointsMerger.pdb
